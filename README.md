@@ -1,6 +1,11 @@
-# Robot Movement Analysis
 
+---
+Michael Zamora & Brandon Duberney
+---
+
+# Robot Movement Analysis
 This project uses Python, Pandas, and SQLite to store and analyze robot movement data from CSV files. The goal is to determine when robots are close to each other and whether they move below a given speed threshold during specific time intervals.
+
 
 
 
